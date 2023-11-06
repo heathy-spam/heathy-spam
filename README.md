@@ -27,7 +27,7 @@
 🌱 My Github State 🌱
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heathy-spam&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heathy-spam&layout=compact)](https://github.com/heathy-spam)   
 
 <br>
 <br>
